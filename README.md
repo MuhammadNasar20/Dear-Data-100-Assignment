@@ -1,11 +1,9 @@
 # Dear-Data-100-Assignment
 IN1007 Creative Coding sketches and Dear Data 100 data
-
 // Dear Data 100 | Week 4 sketch: boxes with light inside
-// Data: minutes spent writing a book, Monday to Friday.
+// Data: minutes spent writing a book, Monday to Friday (placeholder numbers).
 // Inspiration: Generative Design by Bohnacker, Gross, Laub and Lazzeroni
 // (http://www.generative-gestaltung.de/2/), especially the glowing line work of P_2_2_4_01.
-// I used their look as an idea only. All of this code is my own.
 
 String[] dayNames = {"Mon", "Tue", "Wed", "Thu", "Fri"};
 float[] minutes = {
